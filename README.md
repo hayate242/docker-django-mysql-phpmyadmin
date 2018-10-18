@@ -6,4 +6,4 @@ Djangoのプロジェクト生成
 
 $ docker-compose run web django-admin.py startproject mysite .
 
-https://nmmmk.hatenablog.com/entry/2018/05/01/101126
+https://www.evernote.com/Home.action?login=true#n=d6073440-1589-4ed1-bfe6-e2a11ccc6ebc&s=s533&ses=4&sh=2&sds=5&
